@@ -1,6 +1,3 @@
-<<<<<<< 1463d73b6482b088cd3cc0d7b5dc09648e269b1b
-# MyIncome
-=======
 # MyIncome
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
@@ -29,4 +26,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
->>>>>>> add new project my income
+
